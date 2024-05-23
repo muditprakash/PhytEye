@@ -42,7 +42,17 @@ Once we achieved the desired result, it was time to save the model. Here, we are
 # Running it locally:
 
 clone the repo 
-```git clone https://github.com/muditprakash/potato-disease-classifier.git
+```
+git clone https://github.com/muditprakash/potato-disease-classifier.git
+```
+Install requirements.txt file 
+```
+pip install -r requirements.txt
+```
+Run main.py as 
+
+```
+python main.py
 ```
 
 
