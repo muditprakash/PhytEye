@@ -26,3 +26,7 @@ We normalized the images using the `resize and rescale method` and then performe
 ### Model Building
 
 We used the standard `CNN` model coupled with the `softmax` activation function. The model architecture is:
+
+![model architecture](https://github.com/muditprakash/potato-disease-classifier/assets/75181670/23c5df7f-9024-471c-970c-c9550438769b)
+
+
