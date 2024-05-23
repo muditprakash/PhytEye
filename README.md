@@ -29,7 +29,7 @@ We used the standard `CNN` model coupled with the `softmax` activation function.
 
 ![model architecture](https://github.com/muditprakash/potato-disease-classifier/assets/75181670/23c5df7f-9024-471c-970c-c9550438769b)
 
-Then we compiled the model using ``` adam``` optamizer and using ``` accuracy``` as the evaluation metrics and ``` sparse catagorical entropy ``` as a loss. Trained it till 50 ``` epochs``` .
+Then we compiled the model using ``` adam``` optamizer and using ``` accuracy``` as the evaluation metrics and ``` sparse catagorical entropy ``` as a loss trained it till 50 ``` epochs``` .
 
 ### Model Validation 
 We achieved a very high accuracy of 96% on our test dataset. Here is the training vs validation graph showing the model performance:
