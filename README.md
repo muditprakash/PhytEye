@@ -39,6 +39,12 @@ We achieved a very high accuracy of 96% on our test dataset. Here is the trainin
 
 Once we achieved the desired result, it was time to save the model. Here, we are saving the model in h5 file format and using FastAPI to serve the model.
 
+# Running it locally:
+
+clone the repo 
+```git clone https://github.com/muditprakash/potato-disease-classifier.git
+```
+
 
 
 
