@@ -1,4 +1,4 @@
-# <p style="text-align: center;">PhytEye</p>
+ <p style="text-align: center;">PhytEye</p>
 
 Project statement is to classify whether a plant is healthy or not by using an image of a potato leaf.
 It is a multi-class classification problem.
