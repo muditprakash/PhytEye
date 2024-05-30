@@ -55,6 +55,9 @@ Run main.py as
 ```
 python main.py
 ```
+# Demo
+
+https://github.com/muditprakash/PhytEye/assets/75181670/6f1f349c-1ded-40f2-aed1-576354e23d7f
 
 
 
