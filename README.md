@@ -33,6 +33,7 @@ Then we compiled the model using ``` adam``` optamizer and using ``` accuracy```
 
 ### Model Validation 
 We achieved a very high accuracy of 96% on our test dataset. Here is the training vs validation graph showing the model performance:
+
 ![output](https://github.com/muditprakash/potato-disease-classifier/assets/75181670/902679b1-aa60-44c2-9004-fe443f441eab)
 
 ### Model saving and fastapi :
