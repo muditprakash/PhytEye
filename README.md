@@ -44,7 +44,7 @@ Once we achieved the desired result, it was time to save the model. Here, we are
 
 clone the repo 
 ```
-git clone https://github.com/muditprakash/potato-disease-classifier.git
+git clone https://github.com/muditprakash/PhytEye.git
 ```
 Install requirements.txt file 
 ```
